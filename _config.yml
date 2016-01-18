@@ -1,0 +1,28 @@
+name: SPCD
+favicon: null
+layout_spectrum: 0.6241019046865404
+typography_spectrum: 0.17666332377120852
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.11776354885660112
+  lightness: 0.7329383320175111
+  saturation: 0.7789411088451743
+  rhythmicContrast: 0.6043716582935303
+purpose: []
