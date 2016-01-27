@@ -1,28 +1,40 @@
-name: SPCD
 favicon: null
-layout_spectrum: 0.6241019046865404
-typography_spectrum: 0.17666332377120852
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: SPCD
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7789411088451743
+  brandStrength: 0.1177635488566011
+  rhythmicContrast: 0.6043716582935303
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.11776354885660112
   lightness: 0.7329383320175111
-  saturation: 0.7789411088451743
-  rhythmicContrast: 0.6043716582935303
-purpose: []
+typography_spectrum: 0.1766633237712085
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5537634
+analytics:
+  twitter: null
+  google: null
+  facebook: null
